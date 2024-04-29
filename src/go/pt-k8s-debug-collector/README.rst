@@ -159,7 +159,7 @@ Path to kubeconfig. Default configuration be used if none specified
 
 ``--client``
 
-Path to kubernetes client. Default 'kubectl' is used --client is not set
+Path to kubernetes client. Default 'kubectl' is used if --client is not set
 
 ``--forwardport``
 
