@@ -176,7 +176,7 @@ Requirements
 - Installed, configured, and available in PATH ``mysql`` for PXC and MySQL
 - Installed, configured, and available in PATH ``pt-mongodb-summary`` for MongoDB
 - Installed, configured, and available in PATH ``psql`` for PostgreSQL
-- Installed, configured, and available in PATH  kubernetes client like ``kubectl``. Can be overriden by --client flag
+- Installed, configured, and available in PATH  kubernetes client like ``kubectl``. Can be overridden by --client flag
 
 Known Issues
 ============
